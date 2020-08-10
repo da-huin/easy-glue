@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> This package helps you use Glue easily. 
+<p align="center"> This package helps you use AWS Glue easily. 
     <br> 
 </p>
 
